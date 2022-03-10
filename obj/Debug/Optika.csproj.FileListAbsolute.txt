@@ -1,0 +1,78 @@
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\bin\Debug\Optika.exe.config
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\bin\Debug\Optika.exe
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\bin\Debug\Optika.pdb
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Optika.csprojAssemblyReference.cache
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\MainWindow.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\FarmasistsPage.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\App.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Optika_MarkupCompile.cache
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Optika_MarkupCompile.lref
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\MainWindow.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\FarmasistsPage.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Optika.g.resources
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Optika.Properties.Resources.resources
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Optika.csproj.GenerateResource.cache
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Optika.csproj.CoreCompileInputs.cache
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Optika.exe
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Optika.pdb
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\FarmasistsWindow.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\FarmasistsWindow.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\NewPillsPage1.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\NewPillsPage1.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\CheckPersPage.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\CheckRecPage.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\CreateFarmPage.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\ReloadPillsPage.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\CheckPersPage.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\CheckRecPage.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\CreateFarmPage.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\ReloadPillsPage.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\StartPersonPage.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\Pages\StartPersonPage.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\PersPages\BasketPage.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\PersPages\HistoryPage.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\PersPages\WindowPillsPage.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\PersPages\BasketPage.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\PersPages\HistoryPage.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\PersPages\WindowPillsPage.baml
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\PersPages\SelfPage.g.cs
+C:\Users\artinator228\Desktop\Горлов ВВ\Optika\obj\Debug\PersPages\SelfPage.baml
+C:\Users\840G5\Desktop\Apteka\Optika\bin\Debug\Optika.exe.config
+C:\Users\840G5\Desktop\Apteka\Optika\bin\Debug\Optika.exe
+C:\Users\840G5\Desktop\Apteka\Optika\bin\Debug\Optika.pdb
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Optika.csproj.AssemblyReference.cache
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\FarmasistsWindow.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\MainWindow.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\CheckPersPage.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\CheckRecPage.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\CreateFarmPage.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\FarmasistsPage.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\NewPillsPage1.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\ReloadPillsPage.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\StartPersonPage.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\PersPages\BasketPage.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\PersPages\HistoryPage.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\PersPages\SelfPage.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\PersPages\WindowPillsPage.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\App.g.cs
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Optika_MarkupCompile.cache
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Optika_MarkupCompile.lref
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\FarmasistsWindow.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\MainWindow.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\CheckPersPage.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\CheckRecPage.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\CreateFarmPage.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\FarmasistsPage.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\NewPillsPage1.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\ReloadPillsPage.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Pages\StartPersonPage.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\PersPages\BasketPage.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\PersPages\HistoryPage.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\PersPages\SelfPage.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\PersPages\WindowPillsPage.baml
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Optika.g.resources
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Optika.Properties.Resources.resources
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Optika.csproj.GenerateResource.cache
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Optika.csproj.CoreCompileInputs.cache
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Optika.exe
+C:\Users\840G5\Desktop\Apteka\Optika\obj\Debug\Optika.pdb
